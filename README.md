@@ -1,7 +1,7 @@
 ## Olá! Sou Luiz Eduardo
 
 - 🔭 Hoje trabalho com backend e analise de dados
-- 🌱 Estudando Docker, Kubernets, Next, Nest e React
+- 🌱 Estudando Docker, Kubernets, Next e React
 <div>
   <a href="">
     <!-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizpanta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
