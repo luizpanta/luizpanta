@@ -31,4 +31,4 @@
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizpanta&repo=jornadadev)](https://github.com/luizpanta/jornadadev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizpanta&repo=jornadadev)](https://github.com/anuraghazra/github-readme-stats)
